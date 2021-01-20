@@ -1,0 +1,64 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color:#cfdac8;
+    border-style:solid;
+    border-color:white;
+    margin:0;
+    border-top-width:50px;
+    border-bottom-width: 20px;
+    border-right-width: 20px;
+    border-left-width:20px;
+    border-radius:10px;
+}
+
+.header{
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+    font-size:1.5rem;
+}
+
+
+
+.img-div{
+    text-align:center;
+    background-color:white;
+    margin-top:30px;
+    padding-top:30px;
+    padding-bottom:30px;
+    margin-right:20px;
+    margin-left: 20px;
+}
+
+.img-txt{
+    width:400px;
+    margin:0 auto;
+    margin-top:20px;
+}
+
+
+
+h2{
+    text-align:center;
+    margin-top:80px;
+    font-size:1.4rem;
+}
+
+#content{
+    width:50%;
+    margin:80px auto 80px auto;
+    line-height:1.5;
+    font-size:1.2rem;
+    
+}
+
+.singh{
+    width:50%;
+    margin:0 auto;
+    font-size:1.2rem;
+}
+
+.wiki{
+    width:50%;
+    margin: 0 auto;
+    margin-top:50px;
+}
